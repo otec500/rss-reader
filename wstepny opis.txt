@@ -1,3 +1,4 @@
 Celem projektu jest stworzenie czytnika kana³ów RSS.
 Interfejs u¿ytkownika bêdzie oparty na WPF.
 Aplikacja bêdzie umo¿liwia³a dodawanie i usuwanie kana³ów RSS.
+edytowany

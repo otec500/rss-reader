@@ -1,3 +1,4 @@
-Celem projektu jest stworzenie czytnika kana��w RSS.
-Interfejs u�ytkownika b�dzie oparty na WPF.
-Aplikacja b�dzie umo�liwia�a dodawanie i usuwanie kana��w RSS.
+Celem projektu jest stworzenie czytnika kanałów RSS.
+Interfejs użytkownika będzie oparty na ASP.NET. Każdy użytkownik będzie miał swoje konto, gdzie po zalogowaniu będzie mógł dodawać i usuwać śledzone kanały. Aplikacja ma umożliwiać grupowanie kanałów wedle własnych kategorii. Projekt będzie także zawierał bazę danych do przechowywania informacji o użytkownikach i kanałach RSS. 
+
+Głównie chodzi o stworzenie czegoś na wzór www.feedly.com
